@@ -1,0 +1,15 @@
+pandas>=1.5
+numpy>=1.24
+geopandas
+shapely
+scikit-learn
+matplotlib
+plotly
+folium
+requests
+pyproj
+gtfs-realtime-bindings
+statsmodels
+lightgbm
+streamlit
+jupyterlab
