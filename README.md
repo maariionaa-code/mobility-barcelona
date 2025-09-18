@@ -23,7 +23,7 @@ The goals are to:
 # Data sources
 - TMB Developers (GTFS)(https://developer.tmb.cat/) – metro and bus schedules  
 - Renfe Datos Abiertos(https://data.renfe.com/pages/home/) – train positions and timetables  
-- Bicing (GBFS)(https://opendata-ajuntament.barcelona.cat/data/en/dataset/estacions-bicing) – bike station availability  
+- Bicing (GBFS)(https://barcelona-sp.publicbikesystem.net/customer/ube/gbfs/v1/en/station_status) – bike station availability  
 - Open Data BCN (https://opendata-ajuntament.barcelona.cat/en) – bus stops, bike lanes, traffic counts  
 - AEMET OpenData (https://opendata.aemet.es/) – weather conditions
 
