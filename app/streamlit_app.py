@@ -6,7 +6,7 @@ st.set_page_config(page_title="Barcelona Mobility - Demo", layout="wide")
 st.title("Barcelona — Urban Mobility (Demo)")
 
 try:
-    df = pd.read_csv("data/processed/sample_bicing_stations.csv")
+    df = pd.read_csv("data/raw/bicing_realtime.csv")
 except Exception as e:
     st.error("Sample data not found. Add data/processed/sample_bicing_stations.csv")
     st.stop()
