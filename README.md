@@ -32,3 +32,8 @@ Work in progress
 
 # License
 This project is released under the MIT License.  
+
+# Run
+Snapshot for real-time data: python scripts/snapshot_bicing.py
+Merge snapshots (should have 3-4): python scripts/merge_snapshots.py
+App: streamlit run app/streamlit_app.py
