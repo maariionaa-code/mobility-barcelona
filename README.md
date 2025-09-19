@@ -16,7 +16,7 @@ The goals are to:
 
 # Tech stack
 - Python: pandas, numpy, geopandas, scikit-learn, statsmodels  
-- isualization: matplotlib, plotly, folium/keplergl  
+- Visualization: matplotlib, plotly, folium/keplergl  
 - Machine Learning: KMeans, DBSCAN, SARIMAX, LightGBM/XGBoost  
 - Dashboard: Streamlit
 
@@ -36,4 +36,4 @@ This project is released under the MIT License.
 # Run
 Snapshot for real-time data: python scripts/snapshot_bicing.py
 Merge snapshots (should have 3-4): python scripts/merge_snapshots.py
-App: streamlit run app/streamlit_app.py
+Launch app: streamlit run app/streamlit_app.py
